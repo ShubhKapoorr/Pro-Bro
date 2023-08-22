@@ -1,0 +1,17 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.abcd1234{
+    background-color: white;
+    padding: 20px;
+    color: black;
+}
+.main{
+    background-color: #f44336;
+}
+.col-sm-6{
+    padding: 20px;
+    margin-left: 300px;
+
+}

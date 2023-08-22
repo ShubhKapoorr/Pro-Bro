@@ -1,0 +1,28 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.main2{
+    background-color: white;
+    margin: 0px;
+    padding: 30px;
+    margin-top: 0;
+}
+.group{
+    margin: 0px;
+    padding: 0px;
+    background-color: #f44336;
+    color: white;
+}
+.form-group{
+    color: white;
+}
+.table{
+    color: white;
+}
+#emailHelp{
+    color: white;
+}
+body{
+    background-color: #f44336;
+}
